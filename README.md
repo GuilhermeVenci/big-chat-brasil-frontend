@@ -4,7 +4,7 @@ Projeto de frontend para o desafio BCB, desenvolvido em NextJS. O projeto é um 
 
 ---
 
-## 🔥 Funcionalidades
+# 🔥 Funcionalidades
 
 - Login de clientes
 - Cadastro de clientes
@@ -12,9 +12,9 @@ Projeto de frontend para o desafio BCB, desenvolvido em NextJS. O projeto é um 
 - Envio de mensagens
 - Interface de usuário responsiva
 
-## 🛠 Tecnologias Utilizadas
+# 🛠 Tecnologias Utilizadas
 
-- **Frontend**: Next.js 14
+- **Frontend**: Next.js v15
 - **Estilização**: TailwindCSS
 - **Componentes**: Headless UI e Framer Motion
 
@@ -24,18 +24,18 @@ Projeto de frontend para o desafio BCB, desenvolvido em NextJS. O projeto é um 
 
 ---
 
-##  ⚙️ Instalação e Execução
+#  ⚙️ Instalação e Execução
 
 Siga os passos abaixo para configurar e executar o projeto.
 
-### 1. Clonar o repositório
+## 1. Clonar o repositório
 
 ```bash
 git clone https://github.com/guilhermevenci/big-chat-brasil-frontend.git
 cd big-chat-brasil-frontend
 ```
 
-### 2. Configurar variáveis de ambiente
+## 2. Configurar variáveis de ambiente
 
 Crie um arquivo .env na raiz do projeto com as seguintes variáveis:
 
@@ -45,13 +45,13 @@ NEXT_PUBLIC_API_URL="http://localhost:3000" (Rota da API)
 NEXT_PUBLIC_SITE_URL="http://localhost:4000"
 ```
 
-### 3. Instalar dependências
+## 3. Instalar dependências
 
 ```
 npm install
 ```
 
-### 4. Executar o projeto
+## 4. Executar o projeto
 
 ```
 npm run dev
@@ -59,7 +59,7 @@ npm run dev
 
 ---
 
-## 📂 Estrutura do Projeto
+# 📂 Estrutura do Projeto
 
 ```
 big-chat-brasil-frontend/
@@ -109,7 +109,7 @@ big-chat-brasil-frontend/
 
 ---
 
-## 📋 Boas Práticas
+# 📋 Boas Práticas
 
 - Autenticação em SSR
 - Componentes reutilizáveis e modulares
