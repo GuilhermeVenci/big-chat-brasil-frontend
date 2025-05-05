@@ -1,4 +1,4 @@
-#  📌 Big Chat Brasil - BCB API Frontend
+#  📌 Big Chat Brasil - BCB Frontend
 
 Projeto de frontend para o desafio BCB, desenvolvido em NextJS. O projeto é um sistema de envio de mensagens via chat para clientes brasileiros.
 
